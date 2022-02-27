@@ -20,3 +20,8 @@ You can also use repositories from other providers like GitLab. Any Git reposito
 ### `xterm`
 This is the package name that LPM will read from the `master` branch's repository info. It can be any name you want, but it has to be in the `repos.json` file.
 For more info, see [Linux Package Developers](https://github.com/qaqak/LPD)
+## FAQ
+### Should I ignore the pull request warning?
+Yes. It will give that warning every time you open the repository. However, other users cannot see it, so don't worry. We will try to find a better way for package distribution in repositories
+### When a new LPM Release comes out, will all the repositories be updated too?
+The LPM team does not have a database containing all the LPM repositories in the world, so they will not be updated automatically. However, we will provide scripts to upgrade your repositories and the packages
