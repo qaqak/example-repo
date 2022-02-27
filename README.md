@@ -14,7 +14,7 @@ Here is an example:
     "example-repo": "https://github.com/qaqak/example-repo"
 }
 ```
-Not much, eh? Well, that's because the syntax is very simple: "NameOfRepo": "UrlToRepo"
+Not much, eh? Well, that's because the syntax is very simple: `"NameOfRepo": "UrlToRepo"`
 
 You can also use repositories from other providers like GitLab. Any Git repository will work!
 ### `xterm`
