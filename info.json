@@ -1,0 +1,11 @@
+/*
+    Linux Package Manager v1.0.0
+    Copyright (c) 2022 Qasim Khan
+*/
+{
+		"name": "example-repo",
+		"license": "none",
+		"packages": {
+				"xterm": "xterm-370"
+		}
+}
